@@ -20,7 +20,7 @@ export default function Hero() {
           <p className="md:text-base text-sm text-slate-50 my-3 text-balance leading-none">
           Join us for the 6th edition of Code App Level Up workshop and <span className="font-medium">Power Your Future!</span>
           </p>
-          <Link href={"/"}>
+          <Link href={"https://docs.google.com/forms/d/e/1FAIpQLSea-bdfyCXaZrGXRWW04v8Csa_4lLtKcUfpZLglgHwMYxBnzg/viewform?usp=sf_link"}>
             <Button text="Apply Now!" icon={MdArrowOutward}></Button>
           </Link>
         </div>
